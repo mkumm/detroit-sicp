@@ -5,12 +5,6 @@ An early attempt to capture information for the Detroit Functional Programmers t
 Refer to the [associated wiki](https://github.com/mkumm/detroit-sicp/wiki) for different options on technology and additional learning materials. 
 
 ## Reading and Exercises Schedule
-An initial thought on schedule - subject to chaotic changes! 
-
-| By Date | Section |
-|--------------------:|---------|
-| 08/26 | Prep        |
-| 09/02 | 1.1 - 1.1.8 |
-| 09/09 | 1.2 - 1.2.6 |
+Each week we will work as a group and make whatever progress we make :)
 
 
